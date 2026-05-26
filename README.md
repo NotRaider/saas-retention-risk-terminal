@@ -10,12 +10,14 @@ An interactive, real-time business intelligence monitoring terminal built in Pow
 ### 🔴 1. Crisis State (Retention Collapse Selected)
 *Selecting the Q4 volatility peaks instantly triggers a systemic cross-filtering event. Daily churn spikes to 4.32%, and the integrated DAX engine fires an automated high-visibility alert.*
 
-<img width="1273" height="712" alt="image" src="https://github.com/user-attachments/assets/f914f914-13d7-47ec-ba7b-165c950d43a9" />
+<img width="1277" height="717" alt="image" src="https://github.com/user-attachments/assets/99d5a83b-681a-4fc2-a1c5-1e9e50e41e1e" />
+
 
 ### 🟢 2. Baseline State (System Operational)
 *When global macro filters are cleared, the dashboard dynamically resets to an operational baseline layout. The status banner updates to emerald green, confirming that active cumulative parameters fall within safe bounded thresholds.*
 
-<img width="1267" height="710" alt="image" src="https://github.com/user-attachments/assets/3fbe2501-e834-4fa4-b940-356bbbc3bd24" />
+<img width="1275" height="713" alt="image" src="https://github.com/user-attachments/assets/00ffdc27-9b35-4089-ab5e-4d929b9a3bba" />
+
 
 ## 📊 Core Infrastructure Features
 * **Dynamic Risk Alert System:** Hand-coded DAX logic engine that monitors real-time daily churn thresholds (2% upper bound) and dynamically updates status messaging and interface background states (`#D4EFDF` Emerald vs. `#FADBD8` Crimson).
